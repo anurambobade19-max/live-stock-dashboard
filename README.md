@@ -13,6 +13,8 @@ An interactive, real-time financial tracking dashboard built with Python, utiliz
 Follow these steps to run this dashboard locally on your machine:
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/anurambobade19-max/live-stock-dashboard.git
-   cd live-stock-dashboard
+
+```bash
+git clone https://github.com/anurambobade19-max/live-stock-dashboard.git
+cd live-stock-dashboard
+```
